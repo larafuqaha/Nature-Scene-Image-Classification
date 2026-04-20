@@ -3,7 +3,7 @@
 A comparison of three machine learning models — **Naive Bayes**, **Decision Tree**, and **MLP Neural Network** — applied to image classification across three natural landscape categories: desert, forest, and snow.
 
 **Course:** Artificial Intelligence — ENCS3340  
-**Institution:** Birzeit University, Department of Electrical and Computer Engineering  
+Department of Electrical and Computer Engineering  
 
 ---
 
